@@ -3,10 +3,10 @@
 ## Talk Resources
 
 
-## Your Name<!-- include: IlyasLandikov.md -->
+## Ilyas Landikov<!-- include: IlyasLandikov.md -->
 
-* [Your Blog](https://you.blogspot.com/)
-* [Your Others links](https://google.com/you)
+* [Personal Blog](https://ilyas.life/)
+* [LinkedIn](https://linkedin.com/ilandikov)
 
 A bit about you
 <!-- endInclude -->
