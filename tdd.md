@@ -1,7 +1,6 @@
 # Test-driven developent - what I learned from a developer with 36 years of experience
 
 ## Talk Resources
-* [Slides](./Slides/TDD.pptx)
 
 
 ## Your Name<!-- include: IlyasLandikov.md -->
