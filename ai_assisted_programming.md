@@ -3,6 +3,7 @@
 ## Talk resources
 
 * [Slides](https://docs.google.com/presentation/d/1M2wQ1U7quQg2w2uWEVy0HQtrISWeaRDFOi2b95Yx74w/)
+* [Processes and rules](https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject/tree/master/.windsurf) from [Llewelyn Falco](https://llewellynfalco.blogspot.com)
 
 ## Ilyas Landikov<!-- include: IlyasLandikov.md -->
 
