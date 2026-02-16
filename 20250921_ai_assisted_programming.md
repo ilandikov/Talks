@@ -1,4 +1,4 @@
-# AI assisted programming: from promting to pairing
+# AI-assisted programming: from promting to pairing
 
 ## Talk resources
 
