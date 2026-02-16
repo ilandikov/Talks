@@ -2,6 +2,7 @@
 
 ## Talk Resources
 
+* [YouTube](https://www.youtube.com/watch?v=R1h4EM8al94)
 
 ## Ilyas Landikov<!-- include: IlyasLandikov.md -->
 
