@@ -8,3 +8,4 @@
 | 2023-12-16 | [Worldwide Tango Community. The Entrance](20231216_worldwide_tango_community.md) | Community Fest 2023 | Russian |
 | 2023-04-22 | [Systems Approach and Ontology in Teaching Tango](20230422_systems_approach_to_tango.md) | [VII Systems Engineering and Management Conference](https://ailev.livejournal.com/1682056.html) | Russian |
 | 2023-03-18 | [Project Management. Role-based Approach](20230318_project_management_role_approach.md) | Digital Nomad Talks 2023 | Russian |
+| 2022-12-03 | [Career and Interviews. The Job Seeking Lifecycle](20221203_career_and_interviews.md) | Digital Nomad Talks 2022 | Russian |
