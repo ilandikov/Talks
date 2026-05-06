@@ -16,7 +16,11 @@
    * [Slides](../slides/YYYYMMDD_short_slug.pdf)
    * Article [EN](url) | [RU](url)
    ```
-   Include only the resources that exist.
+   Include only the resources that exist. At the end of the file, add the bio include block (verbatim):
+   - `## Ilyas Landikov` followed immediately (no space) by the mdsnippets opening tag referencing `IlyasLandikov.md`
+   - Then on the next line the mdsnippets closing tag `<!-- endInclude -->`
+
+   The GitHub Action will populate the bio content between the tags automatically on the next push.
 
 2. **Add a row** to `README.md` table, sorted by date descending:
    ```
