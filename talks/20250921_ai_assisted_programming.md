@@ -2,7 +2,7 @@
 
 ## Talk resources
 
-* [Slides](https://github.com/ilandikov/Talks/blob/main/Slides/20250921_ai_assisted_programming_ru.pdf)
+* [Slides](../slides/20250921_ai_assisted_programming_ru.pdf)
 * [My processes](https://github.com/ilandikov/swe-methods)
 * [Processes and rules](https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject/tree/master/.windsurf) from [Llewelyn Falco](https://llewellynfalco.blogspot.com)
 * [Mob Programming & the Power of Flow • Woody Zuill • GOTO 2019](https://www.youtube.com/watch?v=28S4CVkYhWA)
