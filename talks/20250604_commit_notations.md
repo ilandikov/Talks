@@ -3,6 +3,7 @@
 ## Talk Resources
 
 * [YouTube](https://www.youtube.com/watch?v=NUWmaY6xiFw) [Backup](https://www.youtube.com/watch?v=EVVZXHUTDaA)
+* [Slides](../slides/20250604_commit_notations.pdf)
 * Article [EN](https://ilyas.life/prog/2025/09/01/conventional-commits) | [RU](https://ilyas.life/prog/2025/09/01/riskovanniye-conventional)
 
 ## Ilyas Landikov<!-- include: IlyasLandikov.md -->
