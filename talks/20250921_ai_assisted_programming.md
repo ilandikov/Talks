@@ -18,4 +18,3 @@ I am a passionate developer with over a decade of IT experience since 2012. I ha
 Contributor to [obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) - a task management plugin for [Obsidian](https://obsidian.md).
 
 I'm also a tango dancer, DJ, organiser and teacher.<!-- endInclude -->
-
