@@ -2,7 +2,7 @@
 
 ## Talk Resources
 
-* [YouTube](https://www.youtube.com/watch?v=R1h4EM8al94)
+* [YouTube](https://www.youtube.com/watch?v=R1h4EM8al94) [Backup](https://www.youtube.com/watch?v=cS9PeBP6PU0)
 * [Slides](../slides/20240328_tdd_what_i_learned.pdf)
 
 ## Ilyas Landikov<!-- include: IlyasLandikov.md -->
