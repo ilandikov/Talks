@@ -2,6 +2,7 @@
 
 | Date | Title | Event | Language |
 |------|-------|-------|----------|
+| 2026-04-04 | [IT Career: If Today I Started Again](20260404_it_career.md) | [GDG TechSummit Osh 2026](https://gdg.community.dev/events/details/google-gdg-bishkek-presents-build-with-ai-techsummit-osh/) | Russian |
 | 2025-06-04 | [Commit Notations for Quality and Testability](20250604_commit_notations.md) | [ProQuality 2025 Conference](https://wearecommunity.io/events/proquality-conference-2025) | English |
 | 2025-09-21 | [AI-assisted programming: from promting to pairing](20250921_ai_assisted_programming.md) | [GDG DevFest Bishkek](https://gdg.community.dev/events/details/google-gdg-bishkek-presents-devfest-bishkek-2025/) | Russian |
 | 2024-04-20 | [Management and Dancing. Common Points](20240420_management_and_dancing.md) | Community Fest 2024 | Russian |
