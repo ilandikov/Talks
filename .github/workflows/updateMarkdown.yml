@@ -3,7 +3,7 @@ on:
   push:
 jobs:
   release:
-    runs-on: windows-latest
+    runs-on: windows-2025-vs2026
     steps:
     - uses: actions/checkout@v2
     - name: Run MarkdownSnippets
